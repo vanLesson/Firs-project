@@ -1,0 +1,8 @@
+.holder{ 
+  margin:7.7vw;
+  margin-left: 20vw;
+  min-width: 900px;
+  max-height: 400px;
+  background:rgba(255,255,255, 0.5);
+  border-radius:30px;
+}

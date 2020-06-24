@@ -1,0 +1,18 @@
+.btn {
+  border-radius: 100px;
+  border: 2px solid white;
+  background-color: white;
+  width: 70px;
+  height: 40px;
+  opacity: 0.7;
+  position: absolute;
+  top: 40vh;
+}
+
+.btn.btn__right {
+  left: 80vw;
+}
+
+.btn.btn__left {
+  left: 10vw;
+}
